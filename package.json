@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Makes leaving a peg expensive and returning to it cheap, in proportion to how far the pool has already strayed.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nirholas/depeg-shield.git"
