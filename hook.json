@@ -27,6 +27,8 @@
   ],
   "source": "contracts/src/hooks/DepegShieldHook.sol",
   "docs": "https://hookforge.pages.dev/hooks/depeg-shield",
+  "repo": "https://github.com/nirholas/depeg-shield",
+  "site": "https://depeg-shield.pages.dev",
   "permissions": {
     "afterRemoveLiquidityReturnsDelta": false,
     "afterAddLiquidityReturnsDelta": false,
