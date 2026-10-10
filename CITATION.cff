@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "depeg-shield"
+abstract: "Makes leaving a peg expensive and returning to it cheap, in proportion to how far the pool has already strayed."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/depeg-shield"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
