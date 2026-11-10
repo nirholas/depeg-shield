@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "depeg-shield",
-      "source": "./",
+      "source": "./plugins/depeg-shield",
       "description": "DepegShieldHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+      "category": "development",
       "tags": [
         "uniswap-v4",
         "hooks",
