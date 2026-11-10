@@ -1,0 +1,23 @@
+{
+  "name": "depeg-shield",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "DepegShieldHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+  "plugins": [
+    {
+      "name": "depeg-shield",
+      "source": "./",
+      "description": "DepegShieldHook Uniswap v4 hook: build, test, configure and deploy it with a mined CREATE2 salt.",
+      "tags": [
+        "uniswap-v4",
+        "hooks",
+        "solidity",
+        "foundry",
+        "risk",
+        "stablecoin",
+        "dynamic-fee"
+      ]
+    }
+  ]
+}
